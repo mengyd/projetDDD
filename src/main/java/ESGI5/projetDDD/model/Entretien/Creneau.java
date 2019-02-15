@@ -1,4 +1,4 @@
-package ESGI5.projetDDD.model;
+package ESGI5.projetDDD.model.Entretien;
 
 import java.time.OffsetTime;
 import java.util.Date;

@@ -1,5 +1,9 @@
 ESGI5\projetDDD\App.class
-ESGI5\projetDDD\IPlanifierEntretien.class
-ESGI5\projetDDD\PlanifierEntretien.class
-ESGI5\projetDDD\model\Entretien.class
-ESGI5\projetDDD\model\Candidat.class
+ESGI5\projetDDD\use_case\Entretien\AnnulerEntretien.class
+ESGI5\projetDDD\model\Entretien\Technos.class
+ESGI5\projetDDD\use_case\Entretien\PlanifierEntretien.class
+ESGI5\projetDDD\Exception\NoCandidateMatchingException.class
+ESGI5\projetDDD\model\Entretien\Candidat.class
+ESGI5\projetDDD\model\Entretien\Creneau.class
+ESGI5\projetDDD\model\Entretien\Entretien.class
+ESGI5\projetDDD\model\Entretien\Consultant.class
